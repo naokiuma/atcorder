@@ -1,3 +1,4 @@
+// 基本コード
 // inputに入力データ全体が入る
 function Main(input) {
 	input = input.split(' ');
